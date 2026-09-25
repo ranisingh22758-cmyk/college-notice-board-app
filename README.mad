@@ -1,0 +1,33 @@
+# College Notice Board App 📢
+
+A modern Android application for college notice management, built for MAD PBL Project.
+
+### ✨ Features
+- View all college notices in real-time
+- Admin can Add / Delete notices
+- Clean and modern Material Design UI
+- Firebase Integration (if used) / Local Storage
+- Category wise notices
+
+### 🛠️ Tech Stack
+- Language: Kotlin 100%
+- IDE: Android Studio
+- UI: XML with Material Design
+- Version Control: Git & GitHub
+
+### 📱 Screenshots
+(Add your app screenshots here)
+
+### 🚀 How to Run
+1. Clone the repository
+   `git clone https://github.com/ranisingh22758-cmyk/college-notice-board-app.git`
+2. Open in Android Studio
+3. Sync Gradle and Run
+
+### 👨‍💻 Developed By
+**Rani Singh**
+3rd Year  ,5 semester Information technology Engineering
+MAD PBL Project - 2025-26
+
+### 📄 License
+This project is for educational purposes.
